@@ -4,8 +4,8 @@ TeamProject
 
 ![image](https://github.com/3399306/Bose/assets/150914729/d7e30cc5-5f7d-4c1c-9c2a-91e474c9bab8)
 
--테이블 설계
 ![image](https://github.com/3399306/Bose/assets/150914729/b43c8986-b30e-4ce8-b206-edfaad1ffef2)
 
 -워크플로우
-![image](https://github.com/3399306/Bose/assets/150914729/1742a44b-ab74-494b-a192-be901130ff87)
+![image](https://github.com/3399306/Bose/assets/150914729/4e5a9cd5-422d-44d1-8eb3-cfe1f82593d5)
+
