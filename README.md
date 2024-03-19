@@ -1,15 +1,17 @@
 # Bose
-![bose](https://github.com/3399306/Bose/assets/150914729/8d0ce65e-9eed-4b2c-9b24-eadd1e81393d)
+# 프로젝트 개요
+![image](https://github.com/3399306/Bose/assets/150914729/6447444d-6f13-4bd2-8964-b5b04c88c4b6)
 
-![image](https://github.com/3399306/Bose/assets/150914729/0a9205d3-edbc-4cd0-bd1f-3602f5b02a07)
+# 정보 구조화 및 업무 분석
+![image](https://github.com/3399306/Bose/assets/150914729/88872371-d7fd-43b7-8322-3921dcc80011)
 
-![image](https://github.com/3399306/Bose/assets/150914729/d7e30cc5-5f7d-4c1c-9c2a-91e474c9bab8)
+#엔티티 관계도
+![image](https://github.com/3399306/Bose/assets/150914729/c7f7d753-0331-40db-8390-9d49c54b5fcd)
 
-![image](https://github.com/3399306/Bose/assets/150914729/b43c8986-b30e-4ce8-b206-edfaad1ffef2)
+# 테이블 설계
+![image](https://github.com/3399306/Bose/assets/150914729/0d744ddc-9446-494f-92aa-6273b2c3e56b
 
-![image](https://github.com/3399306/Bose/assets/150914729/4e5a9cd5-422d-44d1-8eb3-cfe1f82593d5)
-
-# 
+# 시연영상
 # 1. 게시판
 
 https://github.com/3399306/Bose/assets/150914729/fa8bdb69-86b8-4944-b9b1-5e3a208999e2
