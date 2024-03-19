@@ -6,6 +6,5 @@ TeamProject
 
 ![image](https://github.com/3399306/Bose/assets/150914729/b43c8986-b30e-4ce8-b206-edfaad1ffef2)
 
--워크플로우
 ![image](https://github.com/3399306/Bose/assets/150914729/4e5a9cd5-422d-44d1-8eb3-cfe1f82593d5)
 
