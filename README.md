@@ -9,7 +9,8 @@
 ![image](https://github.com/3399306/Bose/assets/150914729/c7f7d753-0331-40db-8390-9d49c54b5fcd)
 
 # 테이블 설계
-![image](https://github.com/3399306/Bose/assets/150914729/0d744ddc-9446-494f-92aa-6273b2c3e56b
+![image](https://github.com/3399306/Bose/assets/150914729/a5f6ce40-b626-42f2-be7a-76803235e12c)
+
 
 # 시연영상
 # 1. 게시판
