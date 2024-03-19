@@ -1,4 +1,6 @@
 # Team Project_Bose
+![bose](https://github.com/3399306/Bose/assets/150914729/4e890b02-fda4-430f-ad0a-0285c39e039a)
+
 # 1.프로젝트 개요
 ![image](https://github.com/3399306/Bose/assets/150914729/6447444d-6f13-4bd2-8964-b5b04c88c4b6)
 
