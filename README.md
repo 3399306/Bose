@@ -5,7 +5,7 @@
 # 정보 구조화 및 업무 분석
 ![image](https://github.com/3399306/Bose/assets/150914729/88872371-d7fd-43b7-8322-3921dcc80011)
 
-#엔티티 관계도
+# 엔티티 관계도
 ![image](https://github.com/3399306/Bose/assets/150914729/c7f7d753-0331-40db-8390-9d49c54b5fcd)
 
 # 테이블 설계
