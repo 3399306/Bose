@@ -6,7 +6,7 @@
 ![image](https://github.com/3399306/Bose/assets/150914729/88872371-d7fd-43b7-8322-3921dcc80011)
 
 # 3.엔티티 관계도
-![image](https://github.com/3399306/Bose/assets/150914729/c7f7d753-0331-40db-8390-9d49c54b5fcd)
+![image](https://github.com/3399306/Bose/assets/150914729/460b9887-bbbf-40d4-93eb-23baac8dd771)
 
 # 4.테이블 설계
 ![image](https://github.com/3399306/Bose/assets/150914729/a5f6ce40-b626-42f2-be7a-76803235e12c)
